@@ -22,9 +22,9 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: #barryclark/jekyll-now
   instagram:
-  linkedin: in/lukemarcyniuk/
+  linkedin: lukemarcyniuk/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: lukemarcyniuk
